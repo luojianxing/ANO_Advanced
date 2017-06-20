@@ -22,3 +22,11 @@ Creating a new branch is quick and simple.
 
 
 hello.
+if(a==10)
+{
+   I am a good boy;
+   switch(I)
+   {
+	I am a good student;
+   }
+}
